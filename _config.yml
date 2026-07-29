@@ -1,0 +1,13 @@
+title: Charan's Tech Blog
+email: r.charan242324@gmail.com
+description: Field notes on AI agents, distributed systems, and modern control planes.
+baseurl: ""
+url: https://charrran.github.io
+github_username: Charrran
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
